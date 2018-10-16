@@ -1,2 +1,3 @@
 # TheDataExchange
-Sup Dawg
+
+Social Dataset Sharing Platform similar to Google Dataset Search or Kaggle Datasets
